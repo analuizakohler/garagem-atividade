@@ -5,7 +5,7 @@
   ],
   "python.analysis.autoImportCompletions": true,
   "workbench.colorCustomizations": {
-    "activityBar.activeBackground": "#3399ff",
+    "activityBar.activeBackground": "#4e9ff1",
     "activityBar.background": "#3399ff",
     "activityBar.foreground": "#15202b",
     "activityBar.inactiveForeground": "#15202b99",
